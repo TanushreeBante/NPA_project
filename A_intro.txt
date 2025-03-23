@@ -4,3 +4,4 @@ git init
 Module started
 
 shopping cart website added 
+Master ready to accept merge
